@@ -1,0 +1,10 @@
+﻿cellsToAddFromTemplate: 
+  - Templates/Analysis_1.ipynb
+  - Templates/Analysis_2.ipynb
+template: Templates/Analysis_0.ipynb
+variables: 
+  etlFilePath: "C:\\Users\\mukun\\OneDrive\\Documents\\NoRegression.etl\\Regression.etlx"
+  etlFilePath2: "C:\\Users\\mukun\\OneDrive\\Documents\\NoRegression.etl\\Regression.etlx"
+  highPauseThresholdMSec: 30
+  highPromotedBytesThresholdMB: 40
+  highSpeed: 50
